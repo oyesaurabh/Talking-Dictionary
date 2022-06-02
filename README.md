@@ -1,4 +1,4 @@
 # Talking-Dictionary
 
 ## requirements 
-install ***tkinter*** for creating GUI and ***pyttsx3*** for voice, using pip. 
+install ***tkinter*** that is used creating GUI and ***pyttsx3*** for voice, using pip in command terminal.
